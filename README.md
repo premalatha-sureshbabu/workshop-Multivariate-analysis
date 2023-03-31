@@ -4,7 +4,9 @@
 To Perform Bivariate/Multivariate Analysis
 
 # Algorithm:
-1.Read the given data 2.Get information from the data 3.Perform the Bivariate/Multivariate Analysis
+1.Read the given data
+2.Get information from the data
+3.Perform the Bivariate/Multivariate Analysis
 2.Save the clean data to File
 
 # CODE 
