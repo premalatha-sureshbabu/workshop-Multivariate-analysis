@@ -88,7 +88,8 @@ plt.show()
 
 ![16](https://user-images.githubusercontent.com/120620842/229036076-1bab2399-d461-4306-8f45-392798fad3b9.png)
 
-![17](https://user-images.githubusercontent.com/120620842/229036122-7c00c3e4-8844-4d56-9bc9-2f6584c3a876.png)
+![Screenshot 2023-03-31 113446](https://user-images.githubusercontent.com/120620842/229036710-2bf95252-7976-4cff-9799-b3b30996c6e6.png)
+
 
 ![18](https://user-images.githubusercontent.com/120620842/229036179-8d171157-e393-4e3e-a3de-04e82a409e36.png)
 
